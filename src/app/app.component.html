@@ -1,4 +1,17 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<button nz-button nzType="primary">Button</button>
 
+<div class="header">
+  <h1>应季水果</h1>
+</div>
+
+<accordion>
+  <accordion-group *ngFor="let item of monthData">
+    <div accordion-heading class="clearfix">
+      {{item.month}}
+    </div>
+    <div *ngFor="let subItem of item.fruits">
+      {{subItem.name}}
+    </div>
+  </accordion-group>
+</accordion>
 
