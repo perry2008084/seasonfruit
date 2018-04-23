@@ -1,7 +1,35 @@
+.header--title {
+  background: text linear-gradient(60deg, green, yellow, red, yellow, red);
+  color: rgba(0,0,0,.2);
+}
+
 .logo {
   width: 120px;
   height: 31px;
   background: rgba(255,255,255,.2);
   margin: 16px 24px 16px 0;
   float: left;
+}
+
+.fruit-cardcontainer {
+  display: flex;
+  display: -webkit-flex;
+}
+
+.fruit-card {
+  border: 1px solid #ccc;
+  padding-top: 10px;
+  margin-right: 10px;
+}
+
+.fruit-card:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.fruit-card--title {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+  color: cornflowerblue;
 }

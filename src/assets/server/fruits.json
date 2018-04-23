@@ -4,7 +4,9 @@
     "month":"一月",
     "fruits":[
       {
-        "name":"菠萝"
+        "name":"菠萝",
+        "imgUrl":"assets/image/boluo.jpeg",
+        "link":"https://baike.baidu.com/item/%E8%8F%A0%E8%90%9D"
       },
       {
         "name":"甘蔗"
