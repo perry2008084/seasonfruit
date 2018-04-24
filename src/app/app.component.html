@@ -10,7 +10,7 @@
       {{item.month}}
     </div>
     <div class="fruit-cardcontainer" >
-      <a class="fruit-card" *ngFor="let subItem of item.fruits">
+      <a [href]="subItem.link" target="_blank" class="fruit-card" *ngFor="let subItem of item.fruits">
         <img class="fruit-card--img" [src]="subItem.imgUrl" [alt]="subItem.name" />
         <p class="fruit-card--title">{{subItem.name}}</p>
       </a>

@@ -9,10 +9,14 @@
         "link":"https://baike.baidu.com/item/%E8%8F%A0%E8%90%9D"
       },
       {
-        "name":"甘蔗"
+        "name":"甘蔗",
+        "imgUrl":"assets/image/ganzhe.jpeg",
+        "link":"https://baike.baidu.com/item/%E7%94%98%E8%94%97/1074"
       },
       {
-        "name":"砂糖橘"
+        "name":"砂糖桔",
+        "imgUrl":"assets/image/shatangju.jpg",
+        "link":"https://baike.baidu.com/item/%E6%B2%99%E7%B3%96%E6%A1%94/952"
       }
     ],
     "desc":"描述内容"
