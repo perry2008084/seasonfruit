@@ -26,13 +26,19 @@
     "month":"二月",
     "fruits":[
       {
-        "name":"甘蔗"
+        "name":"甘蔗",
+        "imgUrl":"assets/image/ganzhe.jpeg",
+        "link":"https://baike.baidu.com/item/%E7%94%98%E8%94%97/1074"
       },
       {
-        "name":"柠檬"
+        "name":"柠檬",
+        "imgUrl":"assets/image/ningmeng.jpg",
+        "link":"https://baike.baidu.com/item/%E6%9F%A0%E6%AA%AC/1067"
       },
       {
-        "name":"圣女果"
+        "name":"圣女果",
+        "imgUrl":"assets/image/shengnvguo.jpeg",
+        "link":"https://baike.baidu.com/item/%E5%9C%A3%E5%A5%B3%E6%9E%9C"
       }
     ],
     "desc":"描述内容"
@@ -42,13 +48,19 @@
     "month":"三月",
     "fruits":[
       {
-        "name":"柠檬"
+        "name":"柠檬",
+        "imgUrl":"assets/image/ningmeng.jpg",
+        "link":"https://baike.baidu.com/item/%E6%9F%A0%E6%AA%AC/1067"
       },
       {
-        "name":"枇杷"
+        "name":"枇杷",
+        "imgUrl":"assets/image/pipa.jpeg",
+        "link":"https://baike.baidu.com/item/%E6%9E%87%E6%9D%B7/103964"
       },
       {
-        "name":"圣女果"
+        "name":"圣女果",
+        "imgUrl":"assets/image/shengnvguo.jpeg",
+        "link":"https://baike.baidu.com/item/%E5%9C%A3%E5%A5%B3%E6%9E%9C"
       }
     ],
     "desc":"描述内容"
@@ -58,16 +70,24 @@
     "month":"四月",
     "fruits":[
       {
-        "name":"菠萝"
+        "name":"菠萝",
+        "imgUrl":"assets/image/boluo.jpeg",
+        "link":"https://baike.baidu.com/item/%E8%8F%A0%E8%90%9D"
       },
       {
-        "name":"火龙果"
+        "name":"火龙果",
+        "imgUrl":"assets/image/huolongguo.jpeg",
+        "link":"https://baike.baidu.com/item/%E7%81%AB%E9%BE%99%E6%9E%9C/240065"
       },
       {
-        "name":"枇杷"
+        "name":"枇杷",
+        "imgUrl":"assets/image/pipa.jpeg",
+        "link":"https://baike.baidu.com/item/%E6%9E%87%E6%9D%B7/103964"
       },
       {
-        "name":"圣女果"
+        "name":"圣女果",
+        "imgUrl":"assets/image/shengnvguo.jpeg",
+        "link":"https://baike.baidu.com/item/%E5%9C%A3%E5%A5%B3%E6%9E%9C"
       }
     ],
     "desc":"描述内容"

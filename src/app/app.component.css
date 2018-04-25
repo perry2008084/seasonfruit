@@ -14,12 +14,18 @@
 .fruit-cardcontainer {
   display: flex;
   display: -webkit-flex;
+  flex-flow: wrap;
+  justify-content: space-between;
 }
 
 .fruit-card {
   border: 1px solid #ccc;
   padding-top: 10px;
-  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.fruit-card:last-of-type {
+  margin-right: 0;
 }
 
 .fruit-card:hover {
