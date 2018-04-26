@@ -97,28 +97,44 @@
     "month":"五月",
     "fruits":[
       {
-        "name":"菠萝"
+        "name":"菠萝",
+        "imgUrl":"assets/image/boluo.jpeg",
+        "link":"https://baike.baidu.com/item/%E8%8F%A0%E8%90%9D"
       },
       {
-        "name":"草莓"
+        "name":"草莓",
+        "imgUrl":"assets/image/caomei.jpeg",
+        "link":"https://wapbaike.baidu.com/item/%E8%8D%89%E8%8E%93/32702"
       },
       {
-        "name":"火龙果"
+        "name":"火龙果",
+        "imgUrl":"assets/image/huolongguo.jpeg",
+        "link":"https://baike.baidu.com/item/%E7%81%AB%E9%BE%99%E6%9E%9C/240065"
       },
       {
-        "name":"荔枝"
+        "name":"荔枝",
+        "imgUrl":"assets/image/lizhi.jpeg",
+        "link":"https://wapbaike.baidu.com/item/%E8%8D%94%E6%9E%9D/159299"
       },
       {
-        "name":"枇杷"
+        "name":"枇杷",
+        "imgUrl":"assets/image/pipa.jpeg",
+        "link":"https://baike.baidu.com/item/%E6%9E%87%E6%9D%B7/103964"
       },
       {
-        "name":"桑葚"
+        "name":"桑葚",
+        "imgUrl":"assets/image/sangshen.jpeg",
+        "link":"https://wapbaike.baidu.com/item/%E6%A1%91%E6%A4%B9/1962295"
       },
       {
-        "name":"山竹"
+        "name":"山竹",
+        "imgUrl":"assets/image/shanzhu.jpeg",
+        "link":"https://wapbaike.baidu.com/item/%E8%8E%BD%E5%90%89%E6%9F%BF/1061550?fromtitle=%E5%B1%B1%E7%AB%B9&fromid=221691"
       },
       {
-        "name":"樱桃"
+        "name":"樱桃",
+        "imgUrl":"assets/image/yingtao.jpeg",
+        "link":"https://wapbaike.baidu.com/item/%E6%A8%B1%E6%A1%83/338"
       }
     ],
     "desc":"描述内容"
