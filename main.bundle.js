@@ -152,7 +152,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var FruitsService = /** @class */ (function () {
     function FruitsService(http) {
         this.http = http;
-        this.url = "assets/server/fruits.json";
+        this.url = "seasonfruit/assets/server/fruits.json";
     }
     FruitsService.prototype.getFruits = function () {
         return this.http.get(this.url);
