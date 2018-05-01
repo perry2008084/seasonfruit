@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 
 @Injectable()
 export class FruitsService {
-  url = "seasonfruit/assets/server/fruits.json";
+  url = "assets/server/fruits.json";
 
   constructor(private http: HttpClient) { }
 
