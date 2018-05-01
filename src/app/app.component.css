@@ -15,7 +15,7 @@
   display: flex;
   display: -webkit-flex;
   flex-flow: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .fruit-card {
@@ -31,6 +31,11 @@
 .fruit-card:hover {
   cursor: pointer;
   text-decoration: none;
+}
+
+.fruit-card--img {
+  width: 283px;
+  height: 175px;
 }
 
 .fruit-card--title {
